@@ -1,0 +1,9 @@
+streamlit
+pandas
+huggingface_hub
+python-dotenv
+SpeechRecognition
+streamlit-webrtc
+numpy
+pydub
+av
